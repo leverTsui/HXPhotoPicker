@@ -42,6 +42,7 @@ PODS:
   - HXPHPicker/Picker/Lite (1.4.3):
     - HXPHPicker/Core
   - Kingfisher (7.3.2)
+  - LookinServer (1.0.6)
   - Masonry (1.1.0)
   - SDWebImage (5.12.5):
     - SDWebImage/Core (= 5.12.5)
@@ -52,6 +53,7 @@ DEPENDENCIES:
   - GDPerformanceView-Swift
   - GPUImage
   - HXPHPicker
+  - LookinServer
   - Masonry
   - SDWebImage
 
@@ -62,6 +64,7 @@ SPEC REPOS:
     - GPUImage
     - HXPHPicker
     - Kingfisher
+    - LookinServer
     - Masonry
     - SDWebImage
 
@@ -71,9 +74,10 @@ SPEC CHECKSUMS:
   GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
   HXPHPicker: a16d13ddc278e04ddf571b66e0662c731330e6c8
   Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
+  LookinServer: 18155b1e4a08213c236a1dd6b7ca52328a70a1e3
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
 
-PODFILE CHECKSUM: c395177dfd272f05d236e7ce49b9b37b43ac50c5
+PODFILE CHECKSUM: 5f94ed1a1146ad01badc55e2e64c6f0c4588f5d8
 
 COCOAPODS: 1.11.3

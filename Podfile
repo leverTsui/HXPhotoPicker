@@ -6,6 +6,7 @@ def commonPods
   pod 'HXPHPicker'
   pod 'GDPerformanceView-Swift'
   pod 'GPUImage'
+  pod 'LookinServer', :configurations => ['Debug']
 end
 
 target "HXPhotoPickerExample" do
